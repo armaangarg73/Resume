@@ -20,3 +20,4 @@ Open the project folder
 
 Double-click index.html
 OR open it using any web browser
+![alt text](image.png)
